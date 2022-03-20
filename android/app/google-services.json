@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880483701069",
+    "project_id": "fir-anoy",
+    "storage_bucket": "fir-anoy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880483701069:android:af72a6979e43a87ae36704",
+        "android_client_info": {
+          "package_name": "com.example.annoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880483701069-19jprjddcrka01cvubgcqfctbjhne8u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBML3lWgrTZ1KhbHkTyLKUoYM9a4mKaaIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880483701069-19jprjddcrka01cvubgcqfctbjhne8u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
